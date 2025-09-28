@@ -20,5 +20,5 @@
 
 ## 📫 Contato
 
-- LinkedIn: [Ivan Alves](https://www.linkedin.com/in/ivan-alves/)
+- LinkedIn: [Ivan Alves](https://www.linkedin.com/in/ivan-alves-1062a43b)
 - Email: ivanalves2508@gmail.com
