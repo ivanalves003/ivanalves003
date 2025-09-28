@@ -12,7 +12,6 @@
 
 ## 🐍 Estatísticas do GitHub
 
-<!-- Snake animation mostrando commits -->
 ![GitHub Snake animation](https://github.com/IvanAlves/IvanAlves/blob/main/github-snake.svg)
 
 ![Ivan Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanAlves&show_icons=true&theme=radical)
@@ -22,4 +21,4 @@
 ## 📫 Contato
 
 - LinkedIn: [Ivan Alves](https://www.linkedin.com/in/ivan-alves/)
-- Email: ivan@example.com
+- Email: ivanalves2508@gmail.com
