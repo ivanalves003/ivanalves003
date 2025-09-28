@@ -12,8 +12,6 @@
 
 ## 🐍 Estatísticas do GitHub
 
-![GitHub Snake animation](https://github.com/IvanAlves/IvanAlves/blob/main/github-snake.svg)
-
 ![Ivan Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanAlves&show_icons=true&theme=radical)
 
 ---
