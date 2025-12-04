@@ -5,7 +5,7 @@
 <h3 align="left">🔥Minhas estatísticas
  :</h3>
   <div align="center">  
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanalves003&custom_title=Ivan%20Alves%20Activity%20Graph&hide_border=true&area=true&radius=16&theme=gotham"  />
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanalves003&custom_title=Ivan%20Alves%20Activity%20Graph&hide_border=true&area=true&radius=16&theme=chartreuse-dark"  />
   </div>
 
 
