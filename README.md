@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=1000&lines=Ola!+Eu+me+chamo+Ivan+Alves;Bem+-+Vindo!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=30&center=true&vCenter=true&width=1000&lines=Ola!+Eu+me+chamo+Ivan+Alves;Bem+-+Vindo!!!)](https://git.io/typing-svg)
 ---
 
 
 <h3 align="left">🔥Minhas estatísticas
  :</h3>
   <div align="center">  
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanalves003&custom_title=Ivan%20Alves%20Activity%20Graph&hide_border=true&area=true&radius=16&theme=chartreuse-dark"  />
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanalves003&custom_title=Ivan%20Alves%20Activity%20Graph&hide_border=true&area=true&radius=16&theme=github-dark"  />
   </div>
 
 
